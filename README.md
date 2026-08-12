@@ -10,6 +10,7 @@ This project is part of my development practice. It will be used to experiment w
 
 - Git
 - GitHub
+- VS Code
 
 ## Getting Started
 
